@@ -1,0 +1,6 @@
+Product Index done!
+Product Search done!
+Product Upsert done!
+Product Delete done!
+Product Detail done!
+Product Dependency done!
