@@ -1,0 +1,9 @@
+Supplier Index done!
+Supplier Search done!
+Supplier Upsert done!
+Supplier Delete done!
+Supplier Detail done!
+Supplier Product Index done!
+Supplier Product Upsert done!
+Supplier Product Delete done!
+Supplier Product Search done!
