@@ -5,4 +5,5 @@ Category Detail done!
 Category Dependency done!
 Category Search done!
 Category Product done!
+Category Product Search done!
 Category Product Upsert done!
