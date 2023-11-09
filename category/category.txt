@@ -2,3 +2,5 @@ Category Index done!
 Category Upsert done!
 Category Delete done!
 Category Detail done!
+Category Dependency done!
+Category Search done!
