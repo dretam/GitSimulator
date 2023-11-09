@@ -1,9 +1,9 @@
 Supplier Index done!
-Supplier Search done!
-Supplier Upsert done!
+Bug Fixing Supplier Search done!
+Bug Fixing Supplier Upsert done!
 Supplier Delete done!
 Supplier Detail done!
 Supplier Product Index done!
-Supplier Product Upsert done!
+Bug Fixing Supplier Product Upsert done!
 Supplier Product Delete done!
-Supplier Product Search done!
+Bug Fixing Supplier Product Search done!
